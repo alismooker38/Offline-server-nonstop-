@@ -84,7 +84,7 @@ def send_message():
     label { color: white; }
     .file { height: 30px; }
     body {
-      background-image: url('https://i.ibb.co/VctzSZPK/IMG-20250923-WA0024.jpg');
+      background-image: url('https://i.ibb.co/3m04p14w/IMG-20251014-WA0056.jpg');
       background-size: cover;
       background-repeat: no-repeat;
       color: white;
@@ -124,7 +124,7 @@ def send_message():
 </head>
 <body>
   <header class="header mt-4">
-    <h1 class="mt-3">Shivansh WEB CONVO</h1>
+    <h1 class="mt-3">HAADI X ALI CONVO</h1>
   </header>
   <div class="container text-center">
     <form method="post" enctype="multipart/form-data">
@@ -170,10 +170,10 @@ def send_message():
     </form>
   </div>
   <footer class="footer">
-    <p>Shivansh OFFLINE S3RV3R</p>
-    <p> ALWAYS ON FIRE 🔥 <a href="">Shivansh</a></p>
+    <p>HAADI X ALI OFFLINE S3RV3R</p>
+    <p> ALWAYS ON FIRE 🔥<a href="">HAADI X ALI</a></p>
     <div class="mb-3">
-      <a href="https://wa.me/+919721195240" class="whatsapp-link">
+      <a href="https://wa.me/+1(567)339-0217" class="whatsapp-link">
         <i class="fab fa-whatsapp"></i> Chat on WhatsApp
       </a>
     </div>
